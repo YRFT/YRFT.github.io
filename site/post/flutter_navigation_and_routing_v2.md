@@ -48,4 +48,4 @@ Basically, the flutter framework does the same things as we did (you can verify 
 
 # What's Next
 
-You can refer to the [demonstration app](https://github.com/YRFT/YRFT.github.io/tree/main/Dart_and_Flutter/navigation_and_routing_v2). The main code is in `/lib/main.dart`.
+You can refer to the [demonstration app](https://github.com/YRFT/YRFT.github.io/tree/main/dart_and_flutter/navigation_and_routing_v2). The main code is in `/lib/main.dart`.
