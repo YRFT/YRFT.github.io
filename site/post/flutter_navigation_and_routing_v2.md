@@ -32,7 +32,7 @@ To implement the new navigation and routing system, we need to implement four me
 3. `RouterDelegate.currentConfiguration` (a getter method)
 4. `RouterDelegate.setNewRoutePath`
 
-For these methods to work together, we introduce an abstract path model (let me give the model a name: **path**). Below this the transitions, these methods make.
+For these methods to work together, we introduce an abstract path model (let me give the model a name: **path**). Below is the transitions, these methods make.
 
 1. `RouteInformationParser.parseRouteInformation`: URI to path
 2. `RouteInformationParser.restoreRouteInformation`: path to URI
